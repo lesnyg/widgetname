@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">widgetname</string>
+    <string name="editText1"></string>
+    <string name="editText2"></string>
+    <string name="female">여자</string>
+    <string name="male">남자</string>
+    <string name="student">학생</string>
+    <string name="officer">직장인</string>
+    <string name="hintage">나이를 입력하세요</string>
+</resources>
